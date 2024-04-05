@@ -1,0 +1,37 @@
+h1{
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+li{
+    color: rgb(22, 138, 134);
+    font-size: large;
+    font-style: italic;
+    font-family: serif;
+    
+}
+.number{
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footerSec{
+    text-align: center;
+}
+.add{
+    font-size: large;
+    color: rgb(14, 106, 142);
+    font-style: initial;font-family: cursive;
+}
+.foth{
+    color: chocolate;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+ /* Media query for responsiveness */
+ @media screen and (max-width: 368px) {
+   .footerSec{
+padding-right: 100px;
+   }
+  }
+  

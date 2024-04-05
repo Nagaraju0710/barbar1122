@@ -1,0 +1,587 @@
+{
+  "mens": [
+    {
+      "id": "1",
+      "image": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2015/01/men-with-thick-hair-featured.jpg?fit=1280%2C720&ssl=1",
+      "name": "Thick hair",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "2",
+      "image": "https://content.latest-hairstyles.com/wp-content/uploads/hairstyles-for-men-with-thick-hair.jpg",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "3",
+      "image": "https://content.latest-hairstyles.com/wp-content/uploads/brushed-forward-french-crop-with-a-mid-fade-for-guys-with-thick-hair.jpg",
+      "name": "French Crop a Mid Fade",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "4",
+      "image": "https://content.latest-hairstyles.com/wp-content/uploads/curly-hairstyles-for-men.jpg",
+      "name": "Curly Hairstyle",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "5",
+      "image": "https://i.pinimg.com/736x/28/d7/79/28d7794b97f4f7696c9cb2472f0b5a9e.jpg",
+      "name": "Trendy Fair Haircut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "6",
+      "image": "https://machohairstyles.com/wp-content/uploads/2017/03/gentleman-haircut-2.jpg.webp",
+      "name": "Trendy Fair Haircut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "7",
+      "image": "https://i1.wp.com/farm8.staticflickr.com/7840/33280167378_4b701045ba_o.jpg?w=1170&ssl=1",
+      "name": "Trendy Fair Haircut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "8",
+      "image": "https://bosshunting.com.au/wp-content/uploads/2022/09/textured-crop-mens-haircut.jpg",
+      "name": "Textured Crop",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "9",
+      "image": "https://i.pinimg.com/736x/6f/2c/4c/6f2c4c0a01fc2ef750f34329f389b648.jpg",
+      "name": "Thick hair",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "10",
+      "image": "https://luxuo-com-production.s3.ap-southeast-1.amazonaws.com/2022/05/2-Quiff.jpg",
+      "name": "Trending hair",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "11",
+      "image": "https://youprobablyneedahaircut.com/wp-content/uploads/2021/01/Mens-Haircut-1.jpg.webp",
+      "name": "Trendiest Cuts",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "12",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdGprC64QXYGT_O-Z9NhLv24qSFjCac03QwGUI7pPTg&s",
+      "name": "Trendiest Cuts",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "13",
+      "image": "https://www.dmarge.com/wp-content/uploads/2023/05/Long-Hair-with-Fade-Source-@dynasty_barbers-via-Instagram.jpg",
+      "name": "Explined Cuts",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "14",
+      "image": "https://menhairstylist.com/wp-content/uploads/2017/05/Brushed-Forward-Hairstyle.jpg",
+      "name": "Comb forward hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "15",
+      "image": "https://menhairstylist.com/wp-content/uploads/2017/05/Brushed-Forward-Hairstyle.jpg",
+      "name": "Comb forward hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "16",
+      "image": "https://dearbarber.co.uk/cdn/shop/articles/1_1200x1200.jpg?v=1535541945",
+      "name": "Autumn hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "17",
+      "image": "https://i.pinimg.com/736x/c4/77/2c/c4772c530be3f6a668b113ad10e1f2eb.jpg",
+      "name": "Cool short hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "18",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQy28eVwGxha35hEBJFb9Ah90eKtVHkBKkjdoA9xuhm4Xc07wfBT3ZAp8A1vnji36lE2g&usqp=CAU",
+      "name": "Nice bar cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "19",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHa7lSqhe6f-VXHfJ6ueGllFJKRVjc29ONKnOyxdTYBs0MJ0p0dXjTvhZLjunFyLOweHQ&usqp=CAU",
+      "name": "Wide bar cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "20",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmiTyATM7dmwMFGEg0L1hLoHR5upxcjaO2EisY0vOgu1fzOD5mSaSJe2KvUdb2oVX2ICE&usqp=CAU",
+      "name": "Classic designed cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "21",
+      "image": "https://i.pinimg.com/736x/d5/03/76/d503769550747bf8bb313d4d84bb7d31.jpg",
+      "name": "Trendy designed cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "22",
+      "image": "https://i.pinimg.com/736x/cb/68/65/cb6865e05eb8a408fa229b79d36b30d1.jpg",
+      "name": "Winter hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "23",
+      "image": "https://i.pinimg.com/736x/73/b3/81/73b38154abf4711094731953fe243180.jpg",
+      "name": "Normal hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "24",
+      "image": "https://i.pinimg.com/736x/73/b3/81/73b38154abf4711094731953fe243180.jpg",
+      "name": "Normal hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "25",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEbNaMROCr8JF8nBMASMcYNG2ZB02r8HgJqJc3n-_QYspUiDmDMXtgvEQRY6Jq2g-UHfg&usqp=CAU",
+      "name": "Balck Bull hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "26",
+      "image": "https://www.gatsbyglobal.com/en/technique/best-haircuts-men-top-mens-hairstyles-today/images/img35.jpg",
+      "name": "Corien hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "27",
+      "image": "https://i.pinimg.com/736x/91/df/3c/91df3cb2d44f2bd7fb4a4b9e53e0965d.jpg",
+      "name": "Comman season hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "28",
+      "image": "https://i.pinimg.com/564x/bc/46/18/bc461857850a8d7a47dd177d5554827a.jpg",
+      "name": "Nice season hair cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "29",
+      "image": "https://haircutinspiration.com/wp-content/uploads/side-part-1-blackfishbry.jpg",
+      "name": "Exceptional  cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    },
+    {
+      "id": "30",
+      "image": "https://i.pinimg.com/236x/d4/db/99/d4db9990a4a8996f32acc98d93ef5154.jpg",
+      "name": "Insipiration  cut",
+      "price": 100,
+      "discount": 20,
+      "finalprice": 80
+    }
+  ],
+  "kids": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/61/56/49/61564984fb44df54c23122594a7c64d9.jpg",
+      "name": "toddler Boy cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1BtyBtOWyH27L7fseP-TPgaubPYlp2y6XMi3YGvDc2jPQctqOnlWmdJnoeWRN_qvwrw&usqp=CAU",
+      "name": "playground cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "3",
+      "image": "https://www.ohbaby.co.nz/media/4117070/boys-haircut-17.jpg?width=500;height=499.99999999999994",
+      "name": "OHbaby cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "4",
+      "image": "https://www.menshairstylestoday.com/wp-content/uploads/2023/05/Short-Ivy-League-with-Tapered-Sides.jpg",
+      "name": "Little Boy cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "5",
+      "image": "https://menshairstyletips.com/wp-content/uploads/9-Brushed-Up-with-Messy-Top.jpg",
+      "name": "Uiltimate Boy cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "6",
+      "image": "https://zblogs.zoylee.com/wp-content/uploads/2024/03/tadlor-for-boy.webp",
+      "name": "Uiltimate Boy cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "7",
+      "image": "https://i.pinimg.com/736x/95/07/44/950744a44479d50bc3f2c6430db8a5ea.jpg",
+      "name": "Faid hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "8",
+      "image": "https://i.pinimg.com/736x/f7/cb/9a/f7cb9a17f6af98390b5ab87c3ad6d466.jpg",
+      "name": "School hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "9",
+      "image": "https://glaminati.com/wp-content/uploads/2023/07/boys-haircuts-undercut-fade-hard-part-683x1024.jpg",
+      "name": "Little hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "10",
+      "image": "https://i.pinimg.com/736x/d2/a2/f5/d2a2f5ca06ae7cc1fb23c1f95098cf4e.jpg",
+      "name": "Pin On hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "11",
+      "image": "https://i.pinimg.com/736x/56/a2/09/56a209558ad2f6af31eca13fadaf8eaf.jpg",
+      "name": "Preschooler On hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "12",
+      "image": "https://www.ohbaby.co.nz/media/4117071/boys-haircut-14.jpg?width=500;height=499.99999999999994",
+      "name": "Preschooler On hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "13",
+      "image": "https://eo54oy2xq6y.exactdn.com/wp-content/uploads/2022/06/Mixed-Boys-Haircut-adorned-with-highlighted-tips.jpg?strip=all&lossy=1",
+      "name": "Snow On hair cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "14",
+      "image": "https://www.thetrendscout.com/wp-content/uploads/2023/01/boy-hairstyles-33.jpg",
+      "name": "Trend Scount cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "15",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ2FDCZPYXTKAVSui5QxRiGVLbh2-VvJE7Mjm1m5u4NefSZ1nTFEVafeqjSl8ltwocsJ4&usqp=CAU",
+      "name": "Trend Scount cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "16",
+      "image": "https://menshaircuts.com/wp-content/uploads/2023/03/boys-haircuts-low-taper-fade-textured-quiff-683x1024.jpg",
+      "name": "AA cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "17",
+      "image": "https://i.pinimg.com/736x/7a/b3/30/7ab330c859458c7c0899c2d9476a1a16.jpg",
+      "name": "Ultimate cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "18",
+      "image": "https://hairmanstyles.com/wp-content/uploads/2020/04/13-year-olds-hairstyles-5.jpg",
+      "name": "Hair man style cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "19",
+      "image": "https://i.pinimg.com/originals/73/0b/18/730b186d99f2af46f15bddef03354ca2.jpg",
+      "name": "Cool man style cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "19",
+      "image": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2015/09/12-wild-wavy-long-top-short-sides-style.jpg?w=500&ssl=1",
+      "name": "Mixed style cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    },
+    {
+      "id": "20",
+      "image": "https://content.latest-hairstyles.com/wp-content/uploads/boys-haircuts.jpg",
+      "name": "hard Partuy style cut",
+      "price": 70,
+      "discount": 10,
+      "finalprice": 60
+    }
+  ],
+  "beard": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/564x/f7/7d/5f/f77d5fa072d4b075a4102cfa6566d6ad.jpg",
+      "name": "Coolest Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_7VWqrk939ANcD9-M4vK5Zc_qR3GFA5uKPWmczLioEVMekX_PioKod1cT5Y-2h1f0bk&usqp=CAU",
+      "name": "Deserve Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "3",
+      "image": "https://i.pinimg.com/474x/f8/86/8c/f8868ceed4500ba3aa54b523ed6459db.jpg",
+      "name": "Thick Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "4",
+      "image": "https://i.pinimg.com/736x/89/a3/8c/89a38c4c23529cdcb085ed26da715ee0.jpg",
+      "name": "Handsome Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "5",
+      "image": "https://i.pinimg.com/736x/83/0c/18/830c188b90a7d2ea341feace21416feb.jpg",
+      "name": "Handsome Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "6",
+      "image": "https://i.pinimg.com/474x/5a/94/9d/5a949d05ace06905732b50ad42712a8c.jpg",
+      "name": "Very Handsome Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "7",
+      "image": "https://haircutinspiration.com/wp-content/uploads/2016/07/High-Quiff-Hairstyle.jpg",
+      "name": "Top Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "8",
+      "image": "https://wellgroomedgentleman.com/wp-content/uploads/2023/10/14._High_and_firm_quiff_with_stripes_.width-800.jpg",
+      "name": "Short Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "9",
+      "image": "https://menshaircuts.com/wp-content/uploads/2021/02/how-to-beard-styles-hipster-side-part-683x1024.jpg",
+      "name": "Raw Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "10",
+      "image": "https://cdn0.weddingwire.in/article/3287/original/1280/jpg/77823-beard-styles-for-men-pinerest-ranveer-singhs-beard.jpeg",
+      "name": "Wedding Wire Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "11",
+      "image": "https://asset20.ckassets.com/thegoodlookbook/wp-content/uploads/sites/2/2019/03/8-3.jpg",
+      "name": "Wedding Wire Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    },
+    {
+      "id": "12",
+      "image": "https://i0.wp.com/img.paisawapas.com/ovz3vew9pw/2023/07/29180246/thin-french-beard.jpg?resize=700%2C900&ssl=1",
+      "name": "French Wire Beard",
+      "price": 50,
+      "discount": 10,
+      "finalprice": 40
+    }
+  ],
+  "colours": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/originals/bc/fd/5f/bcfd5f1bfb8012b613feb57e27be9487.jpg",
+      "name": "Smokey Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    },
+    {
+      "id": "2",
+      "image": "https://res.cloudinary.com/conferences-and-exhibitions-pvt-ltd/image/upload/v1618299154/Hair%20and%20Beauty%20Trends/April-2021/Trending-Hair-Colours-for-Men-in-2021/Deep_Red_line.17qq.com_jc6kuh.jpg",
+      "name": "Style Speek Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqbldFnLMVKBdKeeBa3PgKd6Tv54gydSEPnH7Eh74lFhI1R9ww_CkaSaEwUTo_XW12Kc&usqp=CAU",
+      "name": "Striking Assests Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    },
+    {
+      "id": "4",
+      "image": "https://cdn-aikll.nitrocdn.com/zpODUSdXaRhrjOSnTvJWtCYyNCoHlwTB/assets/images/optimized/rev-2b13eeb/beardoholic.com/wp-content/uploads/2022/06/purple.jpg",
+      "name": "Trendy Assests Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    },
+    {
+      "id": "5",
+      "image": "https://www.lordhair.com/media/wysiwyg/blog-pix/2020-blog-pix/2.JPG",
+      "name": "Ideas Assests Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    },
+    {
+      "id": "6",
+      "image": "https://www.theunstitchd.com/wp-content/uploads/2023/01/Mens-Copper-Brown-Hair-color-Trending-Hair-colors-for-men-in-2023.jpg",
+      "name": "Ideas Assests Colour",
+      "price": 100,
+      "discount": 50,
+      "finalprice": 50
+    }
+  ],
+  "comments": [
+    {
+      "id": "df65",
+      "comment": "add"
+    },
+    {
+      "id": "88b6",
+      "data": "zsd"
+    },
+    {
+      "id": "fea0",
+      "data": "zsd"
+    },
+    {
+      "id": "0040",
+      "data": "amzing\n"
+    },
+    {
+      "id": "be74",
+      "data": "zxc"
+    },
+    {
+      "id": "438d",
+      "data": ""
+    }
+  ]
+}

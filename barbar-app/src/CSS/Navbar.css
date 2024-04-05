@@ -1,0 +1,59 @@
+/* Navbar.css */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+}
+
+.heading {
+  font-size: xx-large;
+  color: transparent;
+  background: linear-gradient(90deg, #FF0000, #00FF00, #0000FF);
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-weight: bold;
+
+}
+
+.nav-links {
+  display: flex;
+
+}
+
+.nav-link {
+
+  background-color: #376250;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+  color: rgb(15, 154, 161); /* Change color on hover */
+}
+
+.nav-link:active {
+  color: rgb(26, 156, 89); /* Change color when active (clicked) */
+}
+
+/* Media query for responsiveness */
+@media screen and (max-width: 768px) {
+  .nav-links {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px; /* Change flex direction to column for small screens */
+    align-items: center; /* Center align items */
+    margin-top: 10px; /* Add some margin on top */
+  }
+
+  .nav-link {
+    margin: 5px 0; /* Add some margin between links */
+  }
+}

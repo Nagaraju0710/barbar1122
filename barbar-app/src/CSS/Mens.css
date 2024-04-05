@@ -1,0 +1,67 @@
+/* Mens.css */
+
+/* Container for card data */
+.data {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Individual card styles */
+  .data div {
+    background-color: #ffffff; /* Card background color */
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Hover effect for cards */
+  .data div:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Image styling */
+  .data img {
+    width: 100%;
+    max-height: 200px; /* Limit image height */
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  /* Text styling */
+  .data h3 {
+    color: #333333; /* Heading color */
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .data p {
+    color: #6c6c67; /* Paragraph color */
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .input{
+    color: #0c352e;
+    border: 2px solid rgb(14, 48, 41);
+    margin: 10px;
+  }
+  .btn{
+    color:white;
+    border: 2px solid rgb(14, 48, 41);
+    margin: 10px;
+    background-color: rgb(10, 46, 34);
+    border-radius: 5px;
+  }
+  /* Media query for mobile view */
+  @media screen and (max-width: 768px) {
+    .data {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+    .input{
+      width: 80px;
+    }
+  }
+  
